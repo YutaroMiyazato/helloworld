@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 /*
-second hogehogehogehgoeghoe
+th
+hogehogehogehogehoge 
 */
 
 int main(void){
